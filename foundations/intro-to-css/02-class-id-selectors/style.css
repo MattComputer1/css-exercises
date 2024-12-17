@@ -1,6 +1,6 @@
 .OddNumbers {
-    background-color: 248, 69, 127;
-    font: Verdana, "DejaVu Sans", "Sans Seriff";
+    background-color: rgb(248, 69, 127);
+    font: Verdana, "DejaVu Sans", "Sans Serif";
 }
 #Element2 {
     color:#4447f8;
@@ -13,5 +13,5 @@
 #Element4 {
 font-weight: bold;
 font-size: 24px;
-background-color: 100, 72%, 62%;
+background-color: hsl(100, 72%, 62%);
 }
