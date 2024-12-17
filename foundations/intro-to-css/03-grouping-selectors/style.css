@@ -4,8 +4,8 @@
 }
 
 #firstButton {
-background-color: #FFFFFF;
-color: hsl(100, 0%, 0%);
+background-color:hsl(100, 0%, 0%) ;
+color:#FFFFFF;
 }
 
 #secondButton {
